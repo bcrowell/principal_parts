@@ -1,7 +1,5 @@
-new pp
-
-
-======================
+Principal parts of common verbs in Homer
+========================================
 
 In this audio recording, you'll hear the first few principal parts of
 about 100 of the most common verbs in Homer. If the verb has a
@@ -15,6 +13,8 @@ that the forms become familiar. Illustration by Flaxman.
 
 # Pronunciation
 
-The pronunciation is a fairly sandard US Erasmian, with
-ω=[o], ο=[ɔ], and υ=[ʊ].
+The pronunciation is a fairly standard US Erasmian. I use
+ω=[o], ο=[ɔ], υ=[ʊ], ζ=[dz]. I diphthongize ει.	
+For audio samples of what these	IPA vowel notations
+represent, see https://en.wikipedia.org/wiki/IPA_vowel_chart_with_audio .
 

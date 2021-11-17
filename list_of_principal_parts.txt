@@ -1,50 +1,28 @@
-=========== ω verbs ===========
-ἄγω ἄξω ἤγαγον
-  lead, bring
-  lead, take with, lead forward, go before, weigh down a scale; middle: take for oneself
-αἱρέω αἱρήσω ἕελον
-  take; mp: choose
-  take, grasp, win; mp: choose, prefer
+=========== ω verbs, first aorist ===========
+----------- augmented -------------
 ἀΐσσω ἀΐξω ἤϊξα
   dart, glance
   shoot, speed, dart, glance
-ἀλέξω ἀλεξήσω ἠλέξησα ἄλαλκον
-  repel, ward off, turn aside
 ἀμείβω ἀμείψω ἤμειψα
   exchange; mp: answer, take turns
   exchange; mp: answer, have dialog, take turns, repay, requite
 ἀμύνω  ἤμυνα
   ward off, help, withstand
   keep off, ward off; help (+acc); withstand (+dat)
-ἀναιρέω ἀναιρήσω ἄνελον
-  take up
 ἀνάσσω ἀνάξω ἤναξα
   rule, be lord
-ἁνδάνω ἁδήσω ἕαδον
-  please
-  to be pleasing to; to please (+dat)
 ἀντιάω ἀντιάσω ἠντίασα
   approach, prepare, share
 ἀπειλέω ἀπειλήσω ἠπείλησα
-  threaten, boast
+  threaten, boast 
+  [etym isn't preposition απο]
 ἅπτω ἅψω ἧψα
   touch
   fasten, bind to; middle: touch, grasp, lay hands on (i.e., fasten oneself to)
-ἀραρίσκω  ἦρσα ἤραρον
-  join together
-  The second aorist, middle, and perfect tenses are used intransitively: to be joined, fit, be furnished with, be agreeable.
 ἀτιμάζω ἀτιμάσω ἠτίμασα
   insult, dishonor
 αὐδάω αὐδήσω ηὔδησα
   speak, declare, shout
-βαίνω βήσω ἔβησα ἔβην
-  go, walk, stand
-βάλλω βαλέω ἔβαλον
-  throw, hit, fall
-  throw, put, drop, strike; intransitive: fall; mp: various meanings involving putting or laying things on or for oneself
-γιγνώσκω γνώσομαι ἔγνων
-  know, perceive
-  know, perceive, learn, realize
 δακρύω δακρύσω ἐδάκρυσα
   weep
 δαμάζω δαμάσω ἐδάμασσα
@@ -53,58 +31,26 @@
 δέω δήσω ἔδησα
   bind; need, beg, fail to do something, fall short
   bind; need, beg, fail to do something, fall short, be unsuited for
-διαπέρθω διαπέρσω διέπερσα
-  destroy
 διώκω διώξω ἐδίωξα
   chase
 δοκέω δοκήσω ἐδόκησα
   seem, have an opinion, suppose
 ἐθέλω ἐθελήσω ἠθέλησα
   consent, be willing
-εἴλω ἔελσα ἔελμαι
-  pack, press, drive
-  pack, press, enclose, drive, jostle, roll up
 ἐλαύνω ἐλάσω ἔλασα
   to drive, march
   to drive, march, push, beat out
-ἐξάγω ἐξάξω ἐξήγαγον
-  lead out
 ἐρύω ἐρυσω εἴρυσσα
   pull, drag, guard
-ἐσθίω φάγομαι ἔφαγον
-  eat
-εὑρίσκω εὑρήσω εὗρον
-  chance upon, find out, obtain
-ἔχω ἕξω ἔσχον
-  have
-θνῄσκω θανοῦμαι εθάνον
-  die
 καίω καύσω ἔκηα
   burn
 καλέω καλέω ἐκάλεσα
   call
 καλύπτω καλύψω κάλυψα
   to cover with, hide
-κεύθω κεύσω ἔκευσα ἔκυυθον
-  cover, hide
 κήδω κηδήσω ἐκήδεσα
   distress, hurt; mp: care about (+gen)
   distress, hurt; mp: be distressed by, care about, be solicitous of, be anxious about (+gen)
-κιχάνω κιχήσομαι ἐκιχησάμην
-  overtake, encounter, reach
-κρίνω κρινέω ἔκρινα
-  distinguish, judge, decide
-κτείνω κτενέω ἔκτην
-  kill
-λαμβάνω λάψομαι ἔλαβον
-  take, grasp
-λανθάνω λήσω λάθον
-  escape notice
-  escape notice, do secretly, cause to forget; mp forget
-λέγω λέξω ἔλεξα ἐλέγην
-  say
-λείπω λείψω ἔλιπον
-  leave something; depart
 λήγω λήξω ἔληξα
   cease
 λύω λύσω ἔλυσα
@@ -118,38 +64,35 @@
 νοέω νοήσω νόησα
   see, think
   see, think, think of; deem, intend (+inf)
-ὁράω ὄψομαι εἶδον
-  see
 ὀρούω ὀρούσω ὄρουσα
   rush, spring
   rush, spring, hurry, rise and violently assault
-ὀφείλω ὀφειλήσω ὤφελον
-  owe, should, if only
-  owe; should (+inf); if only, referring to the past (past+inf); if only, referring to the present (αἴθ/ὡς'+past+inf)
-πείθω πείσω ἔπεισα πέπιθον
-  persuade, mislead, bribe
-  persuade, mislead, bribe; mp: trust, obey
-πειράω πειρήσω ἐπείρησα ἐπειρησάμην
-  try, test
-πέρθω πέρσω ἔπερσα ἔπραθον
-  sack, ravage, plunder
-πίνω πίομαι ἔπιον
-  drink
-πίπτω πεσέομαι ἔπεσον
-  fall
-  fall, fall upon
-πόρω  πόρον
-  offer; be fated
 ῥέζω ῥέξω ἔρρεξα
   do, make, perform sacrifices
 σώζω σαώσω ἐσάωσα
   save
 τελείω τελέσω ἐτέλεσα
   accomplish
-τέλλω ἔταιλα τέταλμαι
-  accomplish, raise
 τέρπω τέρψω ἔτερψα
   delight, satisfy; mp enjoy, revel
+φαίνω φανέω ἔφηνα
+  active: show; passive: appear
+  active: show, cause to appear, uncover, bring to light; passive: appear, shine
+ὠθέω ὤσω ὦσα
+  push
+
+=========== ω verbs with both a 1st and a 2nd aorist ===========
+ἀλέξω ἀλεξήσω ἠλέξησα ἄλαλκον
+  repel, ward off, turn aside
+βαίνω βήσω ἔβησα ἔβην
+  go, walk, stand
+κεύθω κεύσω ἔκευσα ἔκυυθον
+  cover, hide
+πείθω πείσω ἔπεισα πέπιθον
+  persuade, mislead, bribe
+  persuade, mislead, bribe; mp: trust, obey
+πέρθω πέρσω ἔπερσα ἔπραθον
+  sack, ravage, plunder
 τεύχω τεύξω ἔτευξα τέτυκον
   make
 τλάω τλήσομαι ἐτάλασσα ἔτλην
@@ -162,59 +105,109 @@
 τρέφω θρέψω ἔθρεψα ἔτραφον
   nurture; solidify
   nourish, raise; solidify, curdle
-φαίνω φανέω ἔφηνα
-  active: show; passive: appear
-  active: show, cause to appear, uncover, bring to light; passive: appear, shine
-φέρω οἴσω ἤνεγκα ἤνεγκον
-  bring, carry
-φεύγω φεύξομαι ἔφυγον
-  flee
 φράζω φράσω ἔφρασσα ἐπέφραδον
   tell, explain; mp: consider, devise
   tell, point out, explain, advise; mp: consider, devise, think, remark
 φύω φύσω ἔφυσα ἔφυν
   produce, beget
-χαίρω χαιρήσω ἐχηράμην
-  rejoice
-  to rejoice; to enjoy (+dat/part)
 χέω χέω ἔχεα ἐχύμην
   pour, scatter
   pour, scatter, shed, spread forth; mp: embrace, pour forth
-ὠθέω ὤσω ὦσα
-  push
+=========== ω verbs with a 2nd aorist ===========
+ἄγω ἄξω ἤγαγον
+  lead, bring
+  lead, take with, lead forward, go before, weigh down a scale; middle: take for oneself
+αἱρέω αἱρήσω ἕελον
+  take; mp: choose
+  take, grasp, win; mp: choose, prefer
+ἁνδάνω ἁδήσω ἅδον
+  ** changed
+  aorist also εὔαδον
+  please
+  to be pleasing to; to please (+dat)
+ἀραρίσκω  ἦρσα ἤραρον
+  join together
+  The second aorist, middle, and perfect tenses are used intransitively: to be joined, fit, be furnished with, be agreeable.
+βάλλω βαλέω ἔβαλον
+  throw, hit, fall
+  throw, put, drop, strike; intransitive: fall; mp: various meanings involving putting or laying things on or for oneself
+γιγνώσκω γνώσομαι ἔγνων
+  know, perceive
+  know, perceive, learn, realize
+ἐσθίω φάγομαι ἔφαγον
+  eat
+εὑρίσκω εὑρήσω εὗρον
+  chance upon, find out, obtain
+ἔχω ἕξω ἔσχον
+  have
+θνῄσκω θανοῦμαι εθάνον
+  die
+κιχάνω κιχήσομαι ἐκιχησάμην
+  overtake, encounter, reach
+κρίνω κρινέω ἔκρινα
+  distinguish, judge, decide
+κτείνω κτενέω ἔκτην
+  kill
+λανθάνω λήσω λάθον
+  escape notice
+  escape notice, do secretly, cause to forget; mp forget
+λέγω λέξω ἔλεξα ἐλέγην
+  say
+λείπω λείψω ἔλιπον
+  leave something; depart
+ὀφείλω ὀφειλήσω ὤφελον
+  owe, should, if only
+  owe; should (+inf); if only, referring to the past (past+inf); if only, referring to the present (αἴθ/ὡς'+past+inf)
+πόρω  πόρον
+  offer; be fated
+χαίρω χαιρήσω ἐχηράμην
+  rejoice
+  to rejoice; to enjoy (+dat/part)
 
 =========== μι verbs ===========
-ἀνίστημι ἀναστήσω ἀνέστησα ἀνέστην
-  stand up; arouse
-  stand up, arouse, raise, rise from bed
-ἀπόλλυμι ἀπολέσω ἀπώλεσα
-  destroy
 δίδωμι δώσω ἔδωκα
   give; permit
 ἕννυμι ἕσσω ἕεσσα
+  ** changed -  note long upsilon
   clothe in (+2 acc)
 ἵημι ἥσω ἕηκα
   release, throw, utter
-ἵστημι στήσω ἔστησα ἔστην
-  stand, set
-  transitive: stand, set, assemble, station, moor, weigh; intransitive: stand, be at a location, be initiated, halt, stand firm, stand idle, be appointed
 ὄλλυμι ὀλέσω ὤλεσα
+  ** changed -  note long upsilon
   destroy, kill, lose
 ὄμνυμι ὀμέω ὤμοσα
+  ** changed -  note long upsilon
   swear
 ὄρνυμι ὄρσω ὦρσα ὤρορον
+  ** changed -  note long upsilon
   set upon, arouse
 πίμπλημι πλήσω ἔπλησα
   fill oneself
   fill; passive: glut oneself with something (+gen).
 προίημι προήσω προέηκα
   send forth, abandon
-συντίθημι συνθήσω συνέθηκα
-  assemble
 τίθημι θήσω ἔθηκα
   put, place
 
+----------- compounds formed with a preposition, 1st aorist-------------
+διαπέρθω διαπέρσω διέπερσα
+  destroy
+----------- compounds formed with a preposition, 2nd aorist-------------
+ἀναιρέω ἀναιρήσω ἄνελον
+  take up
+ἐξάγω ἐξάξω ἐξήγαγον
+  lead out
+----------- compounds formed with a preposition, μι verbs-------------
+ἀνίστημι ἀναστήσω ἀνέστησα ἀνέστην
+  stand up; arouse
+  stand up, arouse, raise, rise from bed
+ἀπόλλυμι ἀπολέσω ἀπώλεσα
+  destroy
+συντίθημι συνθήσω συνέθηκα
+  assemble
+
 =========== middle-only verbs ===========
+----------- normal -----------
 αἰδέομαι αἰδέσομαι ᾐδεσάμην
   be ashamed
   to be ashamed, in awe of; to fear, respect
@@ -227,8 +220,6 @@
   follow, support
 ἔρομαι ἐρήσομαι ἠρόμην
   ask a question
-ἔρχομαι ἐλεύσομαι ἤλυθον
-  go, walk, leave, come
 ἱκνέομαι ἵξομαι ἱκόμην
   reach, arrive at
 κεῖμαι κείσομαι
@@ -240,10 +231,43 @@
 ======== perfect used as present ==========
 ἄνωγα ἀνώξω ἤνωξα
   to command, order
+  [is from preposition ἀνα-]
+[also see οἶδα]
+
+======== heavily irregular =========
+ἔρχομαι ἐλεύσομαι ἤλυθον
+  go, walk, leave, come
+ἵστημι στήσω ἔστησα ἔστην
+  stand, set
+  transitive: stand, set, assemble, station, moor, weigh; intransitive: stand, be at a location, be initiated, halt, stand firm, stand idle, be appointed
+οἶδα
+  see notes in glossary file
+φέρω οἴσω ἤνεγκα ἤνεγκον
+  bring, carry
+φημί φήσω
+  see notes in glossary file re past tenses
 
 ======== funky, look at more carefully =========
 εἶδον εἰδήσω εἶδον
   see, know, seem
+εἴλω ἔελσα ἔελμαι
+  pack, press, drive
+  pack, press, enclose, drive, jostle, roll up
+λαμβάνω λάψομαι ἔλαβον
+  take, grasp
+ὁράω ὄψομαι εἶδον
+  see
+πειράω πειρήσω ἐπείρησα ἐπειρησάμην
+  try, test
+πίνω πίομαι ἔπιον
+  drink
+πίπτω πεσέομαι ἔπεσον
+  fall
+  fall, fall upon
+τέλλω ἔταιλα τέταλμαι
+  accomplish, raise
+φεύγω φεύξομαι ἔφυγον
+  flee
 
 
 
