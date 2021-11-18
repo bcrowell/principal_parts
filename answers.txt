@@ -1,3 +1,4 @@
+200
 =========== ω verbs, first aorist ===========
 ----------- augmented -------------
 ἀΐσσω ἀΐξω ἤϊξα
@@ -6,7 +7,7 @@
 ἀμείβω ἀμείψω ἤμειψα
   exchange; mp: answer, take turns
   exchange; mp: answer, have dialog, take turns, repay, requite
-ἀμύνω  ἤμυνα
+ἀμύ_νω αμυνέω ἤμυ_να
   ward off, help, withstand
   keep off, ward off; help (+acc); withstand (+dat)
 ἀνάσσω ἀνάξω ἤναξα
@@ -37,17 +38,12 @@
   seem, have an opinion, suppose
 ἐθέλω ἐθελήσω ἠθέλησα
   consent, be willing
-ἐλαύνω ἐλάσω ἔλασα
-  to drive, march
-  to drive, march, push, beat out
-ἐρύω ἐρυσω εἴρυσσα
+ἐρύω ἐρύσω εἴρυσσα
   pull, drag, guard
 καίω καύσω ἔκηα
   burn
 καλέω καλέω ἐκάλεσα
   call
-καλύπτω καλύψω κάλυψα
-  to cover with, hide
 κήδω κηδήσω ἐκήδεσα
   distress, hurt; mp: care about (+gen)
   distress, hurt; mp: be distressed by, care about, be solicitous of, be anxious about (+gen)
@@ -61,12 +57,6 @@
   stay, wait, remain
 μιμνήσκω μνήσω ἔμνησα
   remind
-νοέω νοήσω νόησα
-  see, think
-  see, think, think of; deem, intend (+inf)
-ὀρούω ὀρούσω ὄρουσα
-  rush, spring
-  rush, spring, hurry, rise and violently assault
 ῥέζω ῥέξω ἔρρεξα
   do, make, perform sacrifices
 σώζω σαώσω ἐσάωσα
@@ -81,13 +71,86 @@
 ὠθέω ὤσω ὦσα
   push
 
-=========== ω verbs with both a 1st and a 2nd aorist ===========
-ἀλέξω ἀλεξήσω ἠλέξησα ἄλαλκον
+250
+-----no augment----
+ἀλέξω ἀλεξήσω αλέξησα
   repel, ward off, turn aside
+ἐλαύνω ἐλάσω ἔλασα
+  to drive, march
+  to drive, march, push, beat out
+καλύπτω καλύψω κάλυψα
+  to cover with, hide
+νοέω νοήσω νόησα
+  see, think
+  see, think, think of; deem, intend (+inf)
+ὀρούω ὀρούσω ὄρουσα
+  rush, spring
+  rush, spring, hurry, rise and violently assault
+
+300
+=========== ω verbs with a 2nd aorist ===========
+--------- augmented ---------
+ἄγω ἄξω ἤγαγον
+  lead, bring
+  lead, take with, lead forward, go before, weigh down a scale; middle: take for oneself
+αἱρέω αἱρήσω ἕελον
+  take; mp: choose
+  take, grasp, win; mp: choose, prefer
+ἀραρίσκω  ἦρσα ἤραρον
+  join together
+  The second aorist, middle, and perfect tenses are used intransitively: to be joined, fit, be furnished with, be agreeable.
+βάλλω βαλέω ἔβαλον
+  throw, hit, fall
+  throw, put, drop, strike; intransitive: fall; mp: various meanings involving putting or laying things on or for oneself
+γιγνώσκω γνώσομαι ἔγνων
+  know, perceive
+  know, perceive, learn, realize
+ἐσθίω φάγομαι ἔφαγον
+  eat
+ἔχω ἕξω ἔσχον
+  have
+θνῄσκω θανοῦμαι εθάνον
+  die
+κιχάνω κιχήσομαι ἐκιχησάμην
+  overtake, encounter, reach
+κρίνω κρινέω ἔκρινα
+  distinguish, judge, decide
+κτείνω κτενέω ἔκτην
+  kill
+λέγω λέξω ἔλεξα ἐλέγην
+  say
+λείπω λείψω ἔλιπον
+  leave something; depart
+ὀφείλω ὀφειλήσω ὤφελον
+  owe, should, if only
+  owe; should (+inf); if only, referring to the past (past+inf); if only, referring to the present (αἴθ/ὡς'+past+inf)
+χαίρω χαιρήσω ἐχηράμην
+  rejoice
+  to rejoice; to enjoy (+dat/part)
+360
+--------- unaugmented ---------
+ἁνδάνω ἁδήσω ἅδον
+  aorist also εὔαδον
+  please
+  to be pleasing to; to please (+dat)
+εὑρίσκω εὑρήσω εὗρον
+  chance upon, find out, obtain
+λανθάνω λήσω λάθον
+  escape notice
+  escape notice, do secretly, cause to forget; mp forget
+380
+πόρον
+The present is not used, so πόρω is only a dictionary form. (Sometimes also listed under πορεῖν.) The aorist is to offer, perfect to be fated. Homer uses mostly the 3s aorist πόρεν and the perfect participle πεπρωμένον. He uses the finite perfect only once, as πέπρωοται.
+  offer; be fated
+
+400
+=========== ω verbs with both a 1st and a 2nd aorist ===========
 βαίνω βήσω ἔβησα ἔβην
   go, walk, stand
-κεύθω κεύσω ἔκευσα ἔκυυθον
+κεύθω κεύσω ἔκευσα κύθον
   cover, hide
+ὄρνυ_μι ὄρσω ὦρσα ὤρορον
+  set upon, arouse
 πείθω πείσω ἔπεισα πέπιθον
   persuade, mislead, bribe
   persuade, mislead, bribe; mp: trust, obey
@@ -98,7 +161,7 @@
 τλάω τλήσομαι ἐτάλασσα ἔτλην
   bear
   bear, suffer, undergo; force oneself to do something
-τμήγω τμήξω ἔτμηξα ἔτμαγον
+τμήγω τμήξω ἔτμηξα τμάγον
   cut, cut apart
 τρέπω τρέψω ἔτρεψα ἔτραπον
   turn
@@ -113,74 +176,19 @@
 χέω χέω ἔχεα ἐχύμην
   pour, scatter
   pour, scatter, shed, spread forth; mp: embrace, pour forth
-=========== ω verbs with a 2nd aorist ===========
-ἄγω ἄξω ἤγαγον
-  lead, bring
-  lead, take with, lead forward, go before, weigh down a scale; middle: take for oneself
-αἱρέω αἱρήσω ἕελον
-  take; mp: choose
-  take, grasp, win; mp: choose, prefer
-ἁνδάνω ἁδήσω ἅδον
-  ** changed
-  aorist also εὔαδον
-  please
-  to be pleasing to; to please (+dat)
-ἀραρίσκω  ἦρσα ἤραρον
-  join together
-  The second aorist, middle, and perfect tenses are used intransitively: to be joined, fit, be furnished with, be agreeable.
-βάλλω βαλέω ἔβαλον
-  throw, hit, fall
-  throw, put, drop, strike; intransitive: fall; mp: various meanings involving putting or laying things on or for oneself
-γιγνώσκω γνώσομαι ἔγνων
-  know, perceive
-  know, perceive, learn, realize
-ἐσθίω φάγομαι ἔφαγον
-  eat
-εὑρίσκω εὑρήσω εὗρον
-  chance upon, find out, obtain
-ἔχω ἕξω ἔσχον
-  have
-θνῄσκω θανοῦμαι εθάνον
-  die
-κιχάνω κιχήσομαι ἐκιχησάμην
-  overtake, encounter, reach
-κρίνω κρινέω ἔκρινα
-  distinguish, judge, decide
-κτείνω κτενέω ἔκτην
-  kill
-λανθάνω λήσω λάθον
-  escape notice
-  escape notice, do secretly, cause to forget; mp forget
-λέγω λέξω ἔλεξα ἐλέγην
-  say
-λείπω λείψω ἔλιπον
-  leave something; depart
-ὀφείλω ὀφειλήσω ὤφελον
-  owe, should, if only
-  owe; should (+inf); if only, referring to the past (past+inf); if only, referring to the present (αἴθ/ὡς'+past+inf)
-πόρω  πόρον
-  offer; be fated
-χαίρω χαιρήσω ἐχηράμην
-  rejoice
-  to rejoice; to enjoy (+dat/part)
 
+500
 =========== μι verbs ===========
 δίδωμι δώσω ἔδωκα
   give; permit
-ἕννυμι ἕσσω ἕεσσα
-  ** changed -  note long upsilon
+ἕννυ_μι ἕσσω ἕεσσα
   clothe in (+2 acc)
 ἵημι ἥσω ἕηκα
   release, throw, utter
-ὄλλυμι ὀλέσω ὤλεσα
-  ** changed -  note long upsilon
+ὄλλυ_μι ὀλέσω ὤλεσα
   destroy, kill, lose
-ὄμνυμι ὀμέω ὤμοσα
-  ** changed -  note long upsilon
+ὄμνυ_μι ὀμέω ὤμοσα
   swear
-ὄρνυμι ὄρσω ὦρσα ὤρορον
-  ** changed -  note long upsilon
-  set upon, arouse
 πίμπλημι πλήσω ἔπλησα
   fill oneself
   fill; passive: glut oneself with something (+gen).
@@ -189,6 +197,7 @@
 τίθημι θήσω ἔθηκα
   put, place
 
+600
 ----------- compounds formed with a preposition, 1st aorist-------------
 διαπέρθω διαπέρσω διέπερσα
   destroy
@@ -201,7 +210,7 @@
 ἀνίστημι ἀναστήσω ἀνέστησα ἀνέστην
   stand up; arouse
   stand up, arouse, raise, rise from bed
-ἀπόλλυμι ἀπολέσω ἀπώλεσα
+ἀπόλλυ_μι ἀπολέσω ἀπώλεσα
   destroy
 συντίθημι συνθήσω συνέθηκα
   assemble
@@ -229,10 +238,18 @@
   say, tell
 
 ======== perfect used as present ==========
-ἄνωγα ἀνώξω ἤνωξα
-  to command, order
+ἄνωγα 
+  epic verb, to command, order
   [is from preposition ἀνα-]
-[also see οἶδα]
+  future ἀνώξω 
+  aorist ἤνωξα
+  plup used for present or imperfect ἠνώγεα 
+οἶδα
+  to know, wit
+  3rd person ἴσασι
+  future εἴσομαι
+  pluperfect, used as imperfect ᾔδεα 
+  participle εἰδώς, εἰδυῖα, εἰδός
 
 ======== heavily irregular =========
 ἔρχομαι ἐλεύσομαι ἤλυθον
@@ -240,12 +257,10 @@
 ἵστημι στήσω ἔστησα ἔστην
   stand, set
   transitive: stand, set, assemble, station, moor, weigh; intransitive: stand, be at a location, be initiated, halt, stand firm, stand idle, be appointed
-οἶδα
-  see notes in glossary file
 φέρω οἴσω ἤνεγκα ἤνεγκον
   bring, carry
-φημί φήσω
-  see notes in glossary file re past tenses
+φημί
+  Common past tenses are 3s φάτο and ἔφαθ᾽ and 1s ἐφάμην
 
 ======== funky, look at more carefully =========
 εἶδον εἰδήσω εἶδον
