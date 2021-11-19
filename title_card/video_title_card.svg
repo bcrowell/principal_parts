@@ -17,9 +17,9 @@
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="video_title_card.svg"
-   inkscape:export-filename="/home/bcrowell/principal_parts/video_title_card.png"
-   inkscape:export-xdpi="243.86"
-   inkscape:export-ydpi="243.86">
+   inkscape:export-filename="/home/bcrowell/Documents/greek/recordings/principal_parts/title_card/video_title_card.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -30,7 +30,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.9132678"
-     inkscape:cx="166.79052"
+     inkscape:cx="71.038109"
      inkscape:cy="957.45297"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -56,15 +56,6 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <image
-       sodipodi:absref="/home/bcrowell/principal_parts/ajax-and-patroclus-body.jpg"
-       xlink:href="ajax-and-patroclus-body.jpg"
-       y="18.736959"
-       x="12.748375"
-       id="image909"
-       preserveAspectRatio="none"
-       height="50.037998"
-       width="99.991341" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499995px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -86,6 +77,15 @@
          id="tspan916"
          x="13.275714"
          y="18.209957"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';stroke-width:0.28222221px">github.com/bcrowell/greek-audio-vocab</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';stroke-width:0.28222221px">github.com/bcrowell/principal_parts</tspan></text>
+    <image
+       sodipodi:absref="/home/bcrowell/Documents/greek/recordings/principal_parts/title_card/ajax-and-patroclus-body.jpg"
+       xlink:href="ajax-and-patroclus-body.jpg"
+       y="18.771555"
+       x="13.016016"
+       id="image895"
+       preserveAspectRatio="none"
+       height="40.640003"
+       width="81.280006" />
   </g>
 </svg>
